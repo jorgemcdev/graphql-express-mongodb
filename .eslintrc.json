@@ -1,0 +1,12 @@
+{
+    "extends": "airbnb-base",
+    "plugins": [
+        "import"
+    ],
+    "rules": {
+        "semi": 2,
+        "comma-dangle": 0,
+        "no-unused-vars": 0,
+        "no-underscore-dangle": 0
+    }
+}
