@@ -29,10 +29,7 @@ url: ?query={blogPost(id: "58e6c2b0a23739184b0b0fcf"){_id,title,description} com
 ```
 
 
-Mutations:
-
-
-##Mutations
+## Mutations
 
 **Add Post**
 
